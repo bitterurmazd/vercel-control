@@ -1,0 +1,7 @@
+{
+  "name": "vercel-control",
+  "version": "1.1.0",
+  "description": "Serverless controller",
+  "private": true,
+  "license": "MIT"
+}
